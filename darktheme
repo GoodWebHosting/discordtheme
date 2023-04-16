@@ -90,7 +90,7 @@
 	
 	--background-primary: #111111;									/* #36393F */
 	--background-secondary: #161616;								/* #2F3136 */
-	--background-tertiary: #191919;									/* #202225 */
+	--background-tertiary: #313338;									/* #202225 */
 	--background-accent: #1C1C1C;									/* #4F545C */
 	--background-secondary-alt: #1B1B1B;							/* #292B2F */
 	--background-floating: #202020;									/* #18191C */
@@ -347,7 +347,7 @@
 	box-shadow: none;
 }
 .container-1Lk8p7 .container-x8Y1ix {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 4px;
 	border: none;
 }
@@ -383,7 +383,7 @@
 	background-color: #111111;
 }
 .pageWrapper-2PwDoS .scroller-3j5xK2::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 	border: 5px solid #111111;
 }
 .pageWrapper-2PwDoS .scroller-3j5xK2::-webkit-scrollbar-track-piece {
@@ -440,10 +440,10 @@
 .guildListSection-3UxZHY .card-2TuZPZ:hover,
 .guildListSection-3UxZHY .card-2TuZPZ .iconMask-2fMR98,
 .guildListSection-3UxZHY .card-2TuZPZ:hover .iconMask-2fMR98 {
-	background-color: #191919;
+	background-color: #313338;
 }
 .guildListSection-3UxZHY .card-2TuZPZ .wrapper-2vIMkT {
-	background-color: #191919;
+	background-color: #313338;
 	box-shadow: none;
 }
 .guildListSection-3UxZHY .spinner-2bMWLW {
@@ -1139,7 +1139,7 @@
 
 /* You're now a member of X server: Notice */
 .container-2dXT_2 {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* NEW UNREADS/MENTIONS Notice */
@@ -1304,7 +1304,7 @@
 }
 .container-2qVG6q.isOpen-2OXbFs.mainCard-3KBsBI .pill-3pRQlO,
 .container-2qVG6q.isOpen-2OXbFs.mainCard-3KBsBI:hover .pill-3pRQlO {
-	background-color: #191919;
+	background-color: #313338;
 }
 .container-3wLKDe .mainCard-3KBsBI:hover .pill-3pRQlO {
 	background-color: #262626;
@@ -1392,7 +1392,7 @@
 /* Browse Channels */
 .chat-2ZfjoI .scrollerContainer-y16Rs9 .profileCard-2gVmvm,
 .chat-2ZfjoI .container-1um7CU .channelRow-4X_3fi {
-	background-color: #191919;
+	background-color: #313338;
 }
 .chat-2ZfjoI .container-1um7CU .channelRow-4X_3fi:hover {
 	background-color: #202020;
@@ -1406,9 +1406,9 @@
 	gap: 12px;
 }
 .chat-2ZfjoI .prompt-1sE27N .optionButtonWrapper-2lbogO {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 3px;
-	border: 1px solid #191919;
+	border: 1px solid #313338;
 }
 .chat-2ZfjoI .prompt-1sE27N .optionButtonWrapper-2lbogO:hover {
 	background-color: #202020;
@@ -1428,7 +1428,7 @@
 	border-color: #161616;
 }
 .homeContainer-r4Hvv1 .interactiveCard-2iMtdk:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .homeContainer-r4Hvv1 .interactiveCard-2iMtdk .feedItemHeader-txJq98 {
 	border: none
@@ -1628,7 +1628,7 @@
 /* Stage Channel: Open The Stage Modal */
 .root-1CAIjD .stageIconBackground-22nTnK,
 .root-1CAIjD .bulletsContainer-3omDLR {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-1CAIjD .privacyContainer-3XlHxK,
 .root-1CAIjD .bulletsContainer-3omDLR .clickable-2ebqgo:hover {
@@ -1642,7 +1642,7 @@
 .root-1CAIjD .card-8UsK4b,
 .root-1CAIjD .card-8UsK4b.previewCard-E137i2,
 .root-1CAIjD .content-GYGe57 .circle-2tR2Qh {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 }
 .root-1CAIjD .content-Lj791F .colorBrand-21Le_q {
@@ -1726,7 +1726,7 @@
 /* Selected Channel: Start The Stage */
 .root-22AK9z .iconBackground-3qSXiM,
 .root-22AK9z .container-1IyjjY {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-22AK9z .container-1IyjjY:hover,
 .root-22AK9z .separator-3FDGQ4 {
@@ -1752,7 +1752,7 @@
 	background-color: #111111;
 }
 .container-cH6QoY .callContainer-BGIngG .participants-3hk3ND .tileContainer-Os085F:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .container-cH6QoY .callContainer-BGIngG .divider-vv_iHh {
 	border-bottom: 1px solid #212121;
@@ -2144,7 +2144,7 @@
 	background-color: rgba(0,0,0,.45);
 }
 .container-1zzFcN .voiceUsers-25eR9q .avatarIconOverlay-ZVSfbr path {
-	filter: drop-shadow(0px 0px 2px #191919);
+	filter: drop-shadow(0px 0px 2px #313338);
 }
 /* Noise Suppression */
 .container-1zzFcN .button-12Fmur[aria-label="Noise Suppression powered by Krisp" i] {
@@ -2794,7 +2794,7 @@
 }
 /* New Messages/Mark As Read: Top Notice */
 .newMessagesBar-1hF-9G {
-	background-color: #191919;
+	background-color: #313338;
 	opacity: .95;
 }
 .newMessagesBar-1hF-9G:hover {
@@ -2835,7 +2835,7 @@
 	filter: grayscale(1);
 }
 .layer-2BGhQ8 .messagesPopout-eVzQcI::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 }
 /* Pinned Messages/Recent Mentions & Unreads Inbox */
 .recentMentionsPopout-2bI1ZN {
@@ -2883,7 +2883,7 @@
 	border-bottom: 2px solid #FFFFFF !important;
 }
 .layer-2BGhQ8 .header-145e10 .topPill-2vcLsa .tab-TRrPC8:hover {
-	background-color: #191919;
+	background-color: #313338;
 	border-bottom: 2px solid #A5A5A5;
 }
 .layer-2BGhQ8 .header-145e10 .topPill-2vcLsa .tab-TRrPC8[aria-label="For You"] {
@@ -2908,12 +2908,12 @@
 	background-color: #212121;
 }
 .layer-2BGhQ8 .messagesPopoutWrap-3zryHW .channelHeader-DFRX8q {
-	background-color: #191919;
+	background-color: #313338;
 	padding: 0px 8px 0px 7px;
 	height: 58px;
 }
 .layer-2BGhQ8 .channelHeader-DFRX8q {
-	background-color: #191919;
+	background-color: #313338;
 	padding: 0px 6px 0px 26px;
 	height: 58px;
 }
@@ -3098,7 +3098,7 @@
 	padding-top: 0px;
 }
 .clipContainer-31nYlH .replyBar-1oi75v {
-	background-color: #191919;
+	background-color: #313338;
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
 }
@@ -3116,7 +3116,7 @@
 }
 /* Replying Container: Thread Suggestion Bar */
 .clipContainer-31nYlH .threadSuggestionBar-3ExSyc {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 }
 /* Sticker Preview Container */
@@ -3854,7 +3854,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Discord Live Timestamps */
 .timestamp-6-ptG3 {
-	background-color: #191919;
+	background-color: #313338;
 	color: #FFFFFF;
 	padding: 1px 2px;
 	font-weight: bold;
@@ -3894,7 +3894,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .container-2sjPya .footer-GXWBBp,
 .modalContent-1zPatc .footer-GXWBBp {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 }
 .container-2sjPya .footer-GXWBBp .formattedSize-1YbZww,
@@ -3903,7 +3903,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 /* Text/Code Preview: Change Language Popout */
 .languageSelector-2e1IuO {
-	background-color: #191919;
+	background-color: #313338;
 }
 .languageSelector-2e1IuO .inner-2pOSmK,
 .languageSelector-2e1IuO .item-1Mjtru.selected-22ukbQ {
@@ -4044,7 +4044,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #161616;
 }
 .messageAttachmentMediaMosaic-2ic1yt .hoverButtonGroup-2yZIzC .hoverButton-36QWJk:hover {
-	background-color: #191919;
+	background-color: #313338;
 	color: var(--bd-blue-hover);
 }
 .messageAttachmentMediaMosaic-2ic1yt .hoverButtonGroup-2yZIzC .hoverButton-36QWJk:hover.removeAttachmentHoverButton-3gHROs {
@@ -4156,7 +4156,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .container-KM8BU6 .scroller-2GkvCq .reactionSelected-1aMb2K,
 .container-KM8BU6 .reactors-1VXca7 {
-	background-color: #191919;
+	background-color: #313338;
 }
 .container-KM8BU6 .reactors-1VXca7 .wrapper-3Un6-K {
 	width: 28px !important;
@@ -4242,11 +4242,11 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #0C0C0C;
 }
 .wrapper-1FP9YQ .metadata-3IncIG {
-	text-shadow: -1px 2px 1px #191919;
+	text-shadow: -1px 2px 1px #313338;
 	padding: 18px 6px 6px;
 }
 .wrapper-1FP9YQ .metadata-3IncIG .metadataIcon-3QMhu9 {
-	filter: drop-shadow(-1px 2px 1px #191919);
+	filter: drop-shadow(-1px 2px 1px #313338);
 }
 .wrapper-1FP9YQ .metadata-3IncIG .metadataSize-2A2s1T {
 	opacity: .8;
@@ -4281,7 +4281,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .wrapper-1HIH0j .header-3anOjb {
 	color: #E5E5E5;
-	text-shadow: -1px 1px 3px #191919;
+	text-shadow: -1px 1px 3px #313338;
 	margin-bottom: 6px;
 	overflow: visible;
 }
@@ -4289,11 +4289,11 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .wrapper-1HIH0j .guildInfo-UCKhrV .guildName-3G4jq-,
 .wrapper-1HIH0j .guildInfo-UCKhrV .count-62gVQ0,
 .wrapper-1HIH0j .guildInfo-UCKhrV .channelName-2GMEH5 {
-	text-shadow: -1px 1px 3px #191919;
+	text-shadow: -1px 1px 3px #313338;
 	/* overflow: visible; */
 }
 .wrapper-1HIH0j .channelIcon-1OCs9X {
-	filter: drop-shadow(-1px 1px 3px #191919);
+	filter: drop-shadow(-1px 1px 3px #313338);
 }
 .wrapper-1HIH0j .count-62gVQ0 {
 	color: #CCCCCC;
@@ -4347,7 +4347,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 /* Invite Loading */
 .theme-dark .wrapper-1HIH0j .resolving-1cL4mF .resolvingBackground-1MSH01 {
-	background-image: linear-gradient(90deg,#212121,#191919,#212121);
+	background-image: linear-gradient(90deg,#212121,#313338,#212121);
 }
 
 /* Game News Link */
@@ -4360,7 +4360,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	transform: none;
 }
 .newsCard-MOcsRn.card-3EIh8J .wrapper-9ppXpy {
-	background-color: #191919;
+	background-color: #313338;
 	box-shadow: none;
 }
 .newsCard-MOcsRn.card-3EIh8J .colorMuted-20987_ {
@@ -4541,7 +4541,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	right: 3px;
 }
 .emojiPicker-6YCk8a+.categoryList-2qRrlj .categoryItemDefaultCategory-3haEDq:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .emojiPickerListWrapper-1T3YI3 .list-3V14yy::-webkit-scrollbar-thumb {
 	background-color: #101010;
@@ -4697,10 +4697,10 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* "More Stickers Now Available" Tooltip */
 .tooltip-9LylEY {
-	background-color: #191919;
+	background-color: #313338;
 }
 .tooltipPointer-2Z-d_n {
-	border-top: 10px solid #191919;
+	border-top: 10px solid #313338;
 }
 
 /* BetterDiscord Emoji Picker Menu */
@@ -4768,7 +4768,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #111111 !important;
 }
 .phoneFieldPopout-3O-1C3 .phoneFieldScroller-2DblLb::-webkit-scrollbar-track {
-	background-color: #191919 !important;
+	background-color: #313338 !important;
 }
 
 /* This Is The Beggining Of Your Direct Message History With @ */
@@ -4874,7 +4874,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* "Share with your followers!" Publish Notice */
 .chat-2ZfjoI .bumpBox-1Pp4td {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 6px;
 	margin-right: 8px;
 	padding: 6px;
@@ -5050,7 +5050,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	display: var(--Chat-Wave-To-New-User-Button);
 }
 .welcomeCTA-3GMMRK .lookFilled-1H2Jvj.colorPrimary-2-Lusz {
-	background-color: #191919 !important;
+	background-color: #313338 !important;
 	border: none !important;
 	height: 32px;
 }
@@ -5068,7 +5068,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .chat-2ZfjoI .containerCompact-1Jto1O .compactButton-3hG-bs, 
 .chat-2ZfjoI .containerCompact-1Jto1O .compactButtonDisabled-MwB2d6 {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 4px;
 	padding: 8px;
 }
@@ -5094,7 +5094,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Timed out of Chat Notice */
 .chat-2ZfjoI .container-lJuBHq {
-	background-color: #191919;
+	background-color: #313338;
 	padding: 10px;
 	bottom: 64px;
 }
@@ -5118,7 +5118,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	left: 0.5rem;
 }
 .cozy-3hKWhq.wrapper-15CKyy .resolvingBackground-1MSH01 {
-	background-image: linear-gradient(90deg,#111111,#161616,#191919);
+	background-image: linear-gradient(90deg,#111111,#161616,#313338);
 }
 
 /********************************** Server/Channel User List Section *********************************/
@@ -5295,7 +5295,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Sidebar Active Threads Popout */
 .popout-TdhJ6Z {
-	background-color: #191919;
+	background-color: #313338;
 	margin-left: 4px;
 	border-radius: 0px 4px 4px 0px;
 }
@@ -5365,7 +5365,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	border: none;
 }
 .root-1CAIjD .container-3GP6AV .container-2rzKKA:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* Chat Notifications Settings Reminder Top Bar */
@@ -5407,7 +5407,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Thread Is Archived Header: Unarchive? */
 .chatHeaderBar-2fUORh {
-	background-color: #191919;
+	background-color: #313338;
 	padding: 8px 16px;
 }
 .chatHeaderBar-2fUORh .lookFilled-yCfaCM.colorGrey-2iAG-B {
@@ -5440,7 +5440,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #202020;
 }
 .container-3XgAHv .scroller-kQBbkU::-webkit-scrollbar-track {
-	background-color: #191919;
+	background-color: #313338;
 }
 /* Thread Sidebar: Create Thread Fixes */
 .container-3XgAHv form .channelTextArea-3TZH74 {
@@ -5482,7 +5482,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Fullscreen Thread Sidebar: Empty */
 .membersWrap-3NUR2t.emptyState-2DwxJe {
-	background-color: #191919;
+	background-color: #313338;
 }
 .membersWrap-3NUR2t.emptyState-2DwxJe .emptyStateIcon-2xfcFG {
 	background-color: #212121;
@@ -5574,7 +5574,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	position: absolute;
 	background-image: var(--user-background) !important;
 	background-size: cover;
-	box-shadow: inset 0 0 6px 0px #191919;
+	box-shadow: inset 0 0 6px 0px #313338;
 	width: calc(100% - 16px);
 	height: 59px;
 	left: 10px;
@@ -5723,7 +5723,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .container-1oAagU .outer-2JOHae.interactive-2zD88a:hover .section-3G9aLW,
 .container-1oAagU .outer-2JOHae.active-1W_Gl9 .section-3G9aLW {
-	background-color: #191919;
+	background-color: #313338;
 }
 .container-1oAagU .padded-2NSY6O .separator-2OaeRP {
 	background-color: #1C1C1C;
@@ -5785,7 +5785,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 /* Friends Playing Sidebar: Popout */
 .layer-2BGhQ8 .popout-3Zw0qN {
-	background-color: #191919;
+	background-color: #313338;
 	box-shadow: -4px 8px 12px rgba(0,0,0,.3);
 	margin-right: -8px;
 	padding: 6px 14px;
@@ -5821,7 +5821,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	min-width: 420px !important;
 }
 .popout-3gby1q .scroller-1Kbkqa::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 }
 .popout-3gby1q .header-1ffhsl,
 .popout-3gby1q .header-1ffhsl .separator-3C440w,
@@ -5947,7 +5947,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Wast That Not Spam Banner */
 .hamBanner-2jDGhV {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /******************************************* Game Preview ********************************************/
@@ -5957,7 +5957,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #141414;
 }
 .container-jGk-CT .player-3zB-0D:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .container-jGk-CT .body-3NySJS {
 	text-shadow: -1px 2px 2px #111111;
@@ -6073,7 +6073,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Settings */
 .container-36u7Lw .cardPrimaryEditable-2mz_3i {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 }
 .container-36u7Lw .wrapper-QQNZRu .svg-1I-g4j {
@@ -6151,7 +6151,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: var(--bd-blue);
 }
 .root-1CAIjD .lookFilled-1h1y05.select-1Pkeg4 {
-	background-color: #191919;
+	background-color: #313338;
 	border: none
 }
 
@@ -6229,7 +6229,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .applicationStore-2nk7Lo .content-1W9-9i,
 .applicationStore-2nk7Lo .bodySection-3iDdop, 
 .applicationStore-2nk7Lo .row-2qQ--F {
-	background-color: #191919;
+	background-color: #313338;
 }
 .applicationStore-2nk7Lo .bodySection-3iDdop,
 .applicationStore-2nk7Lo .skuNormal-213nY8 {
@@ -6509,7 +6509,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 /* Settings Menu's */
 .standardSidebarView-E9Pc3j .contentRegion-3HkfJJ,
 .standardSidebarView-E9Pc3j .contentRegionScroller-2_GT_N {
-	background-color: #191919;
+	background-color: #313338;
 }
 .standardSidebarView-E9Pc3j .contentColumnDefault-3eyv5o {
 	padding: 44px 20px 80px 40px;
@@ -6692,7 +6692,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .standardSidebarView-E9Pc3j .card-2guEcY .noItemsIcon-1rZlXZ,
 .standardSidebarView-E9Pc3j .card-2guEcY .noItemsIcon-2OeOld {
-	background: #191919;
+	background: #313338;
 } 
 .standardSidebarView-E9Pc3j .subscriptionDetails-ZcKNHC,
 .standardSidebarView-E9Pc3j .sectionAccountCredit-1IqaxB {
@@ -6778,7 +6778,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .accountProfileCard-lbN7n- .background-3d_SjE,
 .accountProfileCard-lbN7n- .background-3d_SjE .fieldList-in8WkP {
-	background-color: #191919;
+	background-color: #313338;
 }
 /* My Account Settings Card Avatar */
 .accountProfileCard-lbN7n- .userInfo-regn9W .avatar-3mTjvZ {
@@ -6832,7 +6832,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	width: var(--User-Popout-Width);
 }
 .profileCustomizationPreview-3zZw6E .userProfileInnerThemedNonPremium-2AJg-H .section-28YDOf:first-child {
-	background-color: #191919;
+	background-color: #313338;
 }
 .profileCustomizationPreview-3zZw6E .userProfileInnerThemedNonPremium-2AJg-H .overlayBackground-2aa7wt>.section-28YDOf:first-child {
 	padding-top: 36px;
@@ -7157,7 +7157,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	border-color: transparent;
 }
 .bd-select .bd-select-options {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 }
 
@@ -7204,7 +7204,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	margin: 0px 0px 12px 0px;
 }
 .bd-addon-list .bd-addon-card:nth-child(even) .bd-addon-header {
-	background-color: #191919;
+	background-color: #313338;
 }
 .bd-addon-list .bd-addon-card:nth-child(odd) .bd-addon-header,
 .bd-addon-list.bd-grid-view .bd-addon-card .bd-addon-header {
@@ -7311,14 +7311,14 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	border-radius: 5px 5px 0px 0px;
 }
 .theme-dark .root-1CAIjD .footer-1hTRRZ {
-	background-color: #191919;
+	background-color: #313338;
 	box-shadow: none;
 }
 .theme-dark .root-1CAIjD .option-1O-Hwt {
 	background-color: #161616;
 }
 .theme-dark .root-1CAIjD .option-1O-Hwt:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .theme-dark .root-1CAIjD .sidebarContainer-gUKhtL,
 .theme-dark .root-1CAIjD .buttonContainer-28osRq {
@@ -7350,7 +7350,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #111111;
 }
 .theme-dark .directoryModal-YJsOMv .input-3O04eu {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* Select Plan Modal */
@@ -7372,16 +7372,16 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Modal: Say Hello to Threads! */
 .root-1CAIjD .video-1j0A3v {
-	background-color: #191919;
+	background-color: #313338;
 	padding: 0px;
 }
 .root-1CAIjD .features-1tMYEH .icon-1HfuQI {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* Modal: This Feature Is Part Of Boosting */
 .root-1CAIjD .perks-2IIbWQ {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-1CAIjD .perks-2IIbWQ .perkRow-10K6XE {
 	border-bottom: 1px solid #212121;
@@ -7483,7 +7483,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	box-shadow: var(--elevation-stroke),var(--elevation-high);
 }
 .guildPopout-1PxOP0 .emojiCounter-tx3ftR {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 50%;
 	padding: 2px 4px 2px 4px;
 }
@@ -7493,7 +7493,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Modal Window: Invite To Play X */
 .root-1CAIjD .resultWrapper-3ra6t7.resultWrapperSelected-3trExS {
-	background-color: #191919;
+	background-color: #313338;
 	color: #FFFFFF;
 }
 .root-1CAIjD .resultWrapper-3ra6t7 {
@@ -7511,7 +7511,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #1C1C1C;
 }
 .root-1CAIjD .content-2zmthk .roleMemberList-1HZfG5 .addMemberRow-KVhQFf[aria-selected="true"] {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-1CAIjD .content-2zmthk .roleMemberList-1HZfG5 .addMemberRow-KVhQFf.selectedRow-1SAgVL:hover,
 .root-1CAIjD .content-2zmthk .roleMemberList-1HZfG5 .addMemberRow-KVhQFf.selectedRow-1SAgVL {
@@ -8038,7 +8038,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #141414;
 }
 .standardSidebarView-E9Pc3j .featureCard-3XHbjy .featureIcon-2sTnDK {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* Set Up Community Server Checkboxes */
@@ -8134,7 +8134,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #2F3136;
 }
 .standardSidebarView-E9Pc3j .previewContainer-29oeA6 .input-2g-os5::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 	border: 4px solid #111111;
 }
 .standardSidebarView-E9Pc3j .previewContainer-29oeA6 .input-2g-os5::-webkit-scrollbar-track {
@@ -8148,7 +8148,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #111111;
 }
 .standardSidebarView-E9Pc3j .optionContainer-32r7Dj {
-	background-color: #191919;
+	background-color: #313338;
 }
 
 /* "Before you can talk in this server..." Rules Modal */
@@ -8156,7 +8156,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #232323;
 }
 .root-1CAIjD .modal-2TOYtq .content-1OG56Q::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-1CAIjD .guildSidebar-UHnQqs {
 	background-color: #141414;
@@ -8231,7 +8231,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .planCard-vET3Ia,
 .perksTable-H9sPBm,
 .wrapper-WLdlSO .scrollerWrapper-3tEvCE::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 }
 .wrapper-WLdlSO .scrollerWrapper-3tEvCE::-webkit-scrollbar-track {
 	background-color: transparent;
@@ -8438,7 +8438,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	padding: 4px;
 }
 .wrapper-3ByaVZ .inviteRow-3vmB7i:hover {
-	background-color: #191919;
+	background-color: #313338;
 }
 .wrapper-3ByaVZ .scroller-3nFW5p {
 	padding-left: 8px;
@@ -8480,14 +8480,14 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Stream Participants Popup */
 .participantsButton-1WBdFP {
-	background-color: #191919;
+	background-color: #313338;
 }
 .participantsButton-1WBdFP:hover {
 	background: #202020;
 }
 /* Stream Participants Menu Popup */
 .root-3bVOP7 {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-3bVOP7 .clickable-23RaYz:hover .content-3xS9Lh {
 	background-color: #202020;
@@ -8677,7 +8677,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 /* Video Call: Server Select */
 .theme-dark .quickSelectPopout-2F0PXw,
 .theme-dark .quickSelectPopoutOption-2E2UmS:focus {
-	background-color: #191919;
+	background-color: #313338;
 }
 .theme-dark .quickSelectPopoutOption-2E2UmS:hover {
 	background-color: #212121;
@@ -8735,7 +8735,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-color: #202020 !important;
 }
 #permissions-modal-wrapper .role-side {
-	background-color: #191919 !important;
+	background-color: #313338 !important;
 }
 
 /***************************************** Settings Row Icons ****************************************/
@@ -8766,7 +8766,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	transition: 220ms;
 }
 .standardSidebarView-E9Pc3j .sidebar-nqHbhN .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
-	background-color: #191919;
+	background-color: #313338;
 	transform: translateX(8px);
 	transition: 160ms;
 }
@@ -8785,7 +8785,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 /* Nitro, Server Boost & Subscriptions Selected Color Fix */
 .standardSidebarView-E9Pc3j .side-1lrxIh .selectedBackground-1t6xXq,
 .standardSidebarView-E9Pc3j .side-1lrxIh .serverBoostTabItem-3QwA3W[aria-selected=true] {
-	background-color: #191919 !important;
+	background-color: #313338 !important;
 	z-index: 0;
 }
 .standardSidebarView-E9Pc3j .side-1lrxIh .premiumLabel-3HPvdB svg,
@@ -9211,7 +9211,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background-size: 42px 42px;
 }
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 .accountButtonInner-33vCDY {
-	background-color: #191919;
+	background-color: #313338;
 }
 .connectContainer-1hylYM .connectionsContainer-3wRUc6 .accountButtonInner-33vCDY:hover {
 	background-color: #292929;
@@ -9423,7 +9423,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .root-1CAIjD .userProfileModalOuter-2wdWjU.userProfileOuterUnthemed-11rPfA .container-3g15px,
 .root-1CAIjD .userProfileModalOuter-2wdWjU.userProfileOuterUnthemed-11rPfA .tabBarContainer-sCZC4w,
 .root-1CAIjD .userProfileModalOuter-2wdWjU.userProfileOuterUnthemed-11rPfA .topSection-13QKHs {
-	background-color: #191919;
+	background-color: #313338;
 }
 .root-1CAIjD .userProfileModalOuter-2wdWjU.userProfileOuterUnthemed-11rPfA .userProfileModalOverlayBackground-2dAaBg {
 	background-color: #202020;
@@ -9470,7 +9470,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .root-1CAIjD .userProfileModalOuter-2wdWjU .topSection-13QKHs .wrapper-3Un6-K {
 	width: 140px !important;
 	height: 140px !important;
-	border: 6px solid #191919;
+	border: 6px solid #313338;
 	margin-top: -10px;
 	margin-left: -6px;
 }
@@ -9874,7 +9874,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	--profile-body-background-color: rgba(0,0,0,0.3) !important; /* rgba(0,0,0,0.45) */
 	--profile-body-divider-color: hsl(0,calc(var(--saturation-factor, 1)*0%),20%);
 	--profile-body-divider-opacity: 0.10; /* 0.24 */
-	--profile-gradient-primary-color: #191919; /* var(--background-secondary-alt); */
+	--profile-gradient-primary-color: #313338; /* var(--background-secondary-alt); */
 	--profile-gradient-secondary-color: var(--background-secondary-alt);
 	--profile-gradient-overlay-color: transparent;
 	--profile-gradient-button-color: var(--profile-body-background-color); /* var(--button-secondary-background); */
@@ -9951,7 +9951,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 /*
 .userPopoutOuter-1OHwPL .userProfileInnerThemedNonPremium-2AJg-H .overlayBackground-2aa7wt .hidden-2NmxrR+.section-28YDOf {
-	background-color: #191919;
+	background-color: #313338;
 	border-radius: 0px;
 	margin: 0px 0px 2px 0px;
 	padding-bottom: 6px;
@@ -10014,7 +10014,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	margin-bottom: 4px;
 }
 .userPopoutOuter-1OHwPL .userProfileInnerThemedNonPremium-2AJg-H .section-28YDOf.usernameSection-3FppkT {
-	background-color: #191919;
+	background-color: #313338;
 }
 .userPopoutOuter-1OHwPL .scroller-15bIdk {
 	overflow: hidden !important;
@@ -10514,7 +10514,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	border-color: #444444;
 }
 .role-2TIOKu.actionButton-1YKTU0 .addButtonIcon-3HZ_2f {
-	filter: drop-shadow(-1px 1px 0px #191919);
+	filter: drop-shadow(-1px 1px 0px #313338);
 	width: 16px;
 }
 /* Role Add Button: Hover */
@@ -10543,7 +10543,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Server Management Popout (User Roles, Audit log Filter) */
 .container-2kTWmC {
-	background-color: #191919;
+	background-color: #313338;
 	box-shadow: var(--elevation-stroke),var(--elevation-high);
 	border: none;
 	padding-bottom: 0px;
@@ -10822,7 +10822,7 @@ body {
 /* Entering/Exiting Options Background */
 .layers-OrUESM,
 .page-17zZ-Y {
-	background-color: #191919;
+	background-color: #313338;
 }
 /* Discord Crashed Background */
 .wrapper-3AZUiP {
@@ -10857,7 +10857,7 @@ body {
 	background-color: #262626 !important;
 }
 .root-1CAIjD .navRow-dG-XX8 {
-	background-color: #191919 !important;
+	background-color: #313338 !important;
 }
 
 /* Windows Titlebar */
@@ -10970,7 +10970,7 @@ body {
 	margin: 4px 0 4px;
 }
 .repoList-9JnAPs .card-x5zW6z .description-zXiu5E::-webkit-scrollbar-thumb {
-	background-color: #191919;
+	background-color: #313338;
 }
 .repoList-9JnAPs .card-x5zW6z .tag-PbPfwP {
 	background-color: var(--bd-blue) !important;
@@ -10987,7 +10987,7 @@ body {
 	max-height: 100%;
 }
 .bd-addon-error {
-	background-color: #191919;
+	background-color: #313338;
 	border: none;
 	border-radius: 0px;
 }
@@ -11014,7 +11014,7 @@ body {
 
 /* BetterDiscord Plugin Popup Notices */
 .bd-toast {
-	background-color: #191919;
+	background-color: #313338;
 	opacity: 0.8;
 }
 .bd-toast.toast-success.icon {
